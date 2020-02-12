@@ -1,13 +1,19 @@
-body {
-	margin: 1in;
-}
-
 header {
 	background-color: #a1c3eb;
+	text-align: center;
+	padding: 10px;
 }
 
-ul {
+.main-menu {
 	list-style-type: none;
+	overflow: hidden;
+	background-color: #ffffff;
+}
+
+.main-menu a {
 	float: left;
 	display: block;
+	text-align: center;
+	padding: 10px;
 }
+	
