@@ -4,13 +4,13 @@ header {
 	padding: 10px;
 }
 
-ul.main-menu {
+ul {
 	list-style-type: none;
 	overflow: hidden;
 	background-color: #ffffff;
 }
 
-ul.main-menu li {
+ul>li {
 	float: left;
 	display: block;
 	text-align: center;
