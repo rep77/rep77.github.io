@@ -6,7 +6,7 @@ header {
 	background-color: #a1c3eb;
 }
 
-ul {
+ul.main-menu li a {
 	list-style-type: none;
 	float: left;
 	display: block;
