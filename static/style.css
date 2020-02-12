@@ -6,3 +6,9 @@ header {
 	background-color: #a1c3eb;
 	text-align: center;
 }
+
+.main-menu {
+	list-style-type: none;
+	float: left;
+	display: block;
+}
