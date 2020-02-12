@@ -10,7 +10,7 @@ ul.main-menu {
 	background-color: #ffffff;
 }
 
-ul.main-menu a {
+ul.main-menu li {
 	float: left;
 	display: block;
 	text-align: center;
