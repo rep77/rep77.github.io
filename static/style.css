@@ -9,7 +9,7 @@ header {
 	font-variant: small-caps;
 }
 
-ul {
+.main-menu {
 	background-color: #777;
 	list-style-type: none;
 	margin: 0;
