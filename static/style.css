@@ -10,8 +10,16 @@ header {
 }
 
 .main-menu {
-	background-color: #777;
 	list-style-type: none;
+	background-color: #777;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.sub-menu {
+	list-style-type: none;
+	background-color: #888;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
