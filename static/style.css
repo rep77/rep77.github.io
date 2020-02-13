@@ -2,7 +2,7 @@ body {
 	margin: 0.5in 1in;
 }
 
-h1 {
+header {
 	background-color: #a1c3eb;
 	text-align: center;
 	padding: 10px;
@@ -13,6 +13,7 @@ ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	overflow: hidden;
 }
 
 li {
@@ -21,6 +22,8 @@ li {
 
 a {
 	display: block;
-	padding: 5px;
+	padding: 8px;
 	text-align: center;
+	color: #ffffff;
+	text-decoration: none;
 }
