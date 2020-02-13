@@ -13,7 +13,7 @@ ul {
 	background-color: #afafaf;
 }
 
-ul>li {
+ul a {
 	float: left;
 	display: block;
 	text-align: center;
