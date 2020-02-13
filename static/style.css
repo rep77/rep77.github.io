@@ -1,11 +1,13 @@
 body {
 	margin: 0.5in 1in;
+	font-family: sans-serif;
 }
 
 header {
 	background-color: #a1c3eb;
 	text-align: center;
 	padding: 10px 0px 0px;
+	font-variant: small-caps;
 }
 
 ul {
