@@ -8,7 +8,7 @@ h1 {
 	padding: 10px;
 }
 
-.main-menu {
+ul {
 	background-color: #afafaf;
 	list-style-type: none;
 	margin: 0;
@@ -22,6 +22,5 @@ li {
 a {
 	display: block;
 	padding: 5px;
-	color: #ffffff;
 	text-align: center;
 }
